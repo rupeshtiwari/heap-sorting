@@ -4,15 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jasmine-node spec"
+    "test": "jest"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "assert": "^2.0.0"
-  },
   "devDependencies": {
-    "jasmine-node": "^3.0.0"
+    "jest": "^24.9.0"
   }
 }
